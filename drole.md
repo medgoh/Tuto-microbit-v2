@@ -1,6 +1,6 @@
-# Micro LED
+# TEST LED
 
-## Toggle an LED
+## Allume une LED
 
 Drag the code to toggle an LED.
 
